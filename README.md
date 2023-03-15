@@ -4,7 +4,7 @@
 
 This example is based on [the basic Astro blog starter kit][starter], and
 adds [the Astro Netlify CMS integration][integration].
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/176efc14-db30-45c4-9dc6-c41b4987bb28/deploy-status)](https://app.netlify.com/sites/symphonious-daifuku-ffe3e5/deploys)][site status]
 ## Quick deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)][deploy]
